@@ -1,0 +1,43 @@
+@import '../../theme/_variables.css';
+
+.login-btn {
+    color: #1CC29F;
+}
+
+.signup-btn {
+    background-color: #1CC29F;
+    color: white;
+    padding: 12px;
+    border-radius: 6px;
+    box-shadow: 0 2px 0 0 rgba(55, 59, 63, 0.5);
+}
+
+.login-section {
+    width: 100% !important;
+    min-height: 600px;
+}
+
+.login-box {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.12);
+    border-radius: 16px;
+    width: 40%;
+    padding: 70px;
+    background: white;
+}
+
+.form-login-btn {
+    background-color: var(--secondary-color);
+    color: white;
+    padding: 12px;
+    border-radius: 6px;
+    box-shadow: 0 2px 0 0 rgba(55, 59, 63, 0.5);
+}
+
+.lbl-forgot {
+    color: var(--secondary-color);
+}
+
+.cta-button{
+    box-shadow: 0 2px 0 0 rgba(55, 59, 63, 0.5);
+    border-radius: 4px;
+}
